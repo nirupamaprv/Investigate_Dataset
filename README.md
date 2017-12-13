@@ -1,5 +1,8 @@
 # Investigate_Dataset
 
+## Blog Version:
+https://prvnirupama.wordpress.com/2017/12/06/directorial-lens-imdb-dataset/
+
 # Overview
 - This Project is an Exploratory Data Analysis conducted on the TMDb dataset (a subset of IMDb dataset on Kaggle) provided via UdacityData Analyst NanoDegree [DAND] Resources.
 - It contains 2 CSV files with the cleaned data used for the data analysis. Data cleaning steps performed are mentioned in the .pynb files
